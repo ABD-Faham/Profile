@@ -11,8 +11,6 @@ div{
 	background-color: tomato;
 	text-align: center;
 	border-radius: 14%;
-	height: 600px;
-	width: 600px;
 	margin-left: 80px;
 
 
@@ -20,6 +18,5 @@ div{
 
 body{
 	 background-color: black;
-	
-
+	 text-align: center;
 }
